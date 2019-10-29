@@ -1,0 +1,15 @@
+servlet/ServletDeletar.class
+controle/UsuarioControle.class
+com/ginf/ginffinal/UsuarioMod.class
+com/ginf/ginffinal/UsuarioColaborador.class
+com/ginf/ginffinal/Postagem.class
+servlet/ServletPostagem.class
+com/ginf/ginffinal/UsuarioAdmin.class
+servlet/Login.class
+util/HibernateUtil.class
+servlet/ServletGinf.class
+servlet/UsuarioControle.class
+com/ginf/ginffinal/UsuarioDono.class
+com/ginf/ginffinal/Usuario.class
+com/ginf/ginffinal/Comentario.class
+servlet/ServletComentario.class

@@ -1,2 +1,2 @@
-# Postagem-Ginf
-Postagem
+# CadastroGINF
+Cadastro do ginf funcionando perfeitamente
